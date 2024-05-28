@@ -1,0 +1,1 @@
+I kraft af side 81 har vi at en singulær matrix er en matrix hvor der ikke eksistere en [[Invertibel Matrix]].

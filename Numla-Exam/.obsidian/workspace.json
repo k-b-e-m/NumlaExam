@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "5a20d714c1023083",
+    "type": "split",
+    "children": [
+      {
+        "id": "265f4c24bb83eeb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c97f1e4ea2ec7c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Matrix/Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2917f94e46858b97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Matrix/Matrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88efe758ca3103d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Basis/Basis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2f88443ce94c9d28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Basis/Basis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d2f837184e57d576",
+    "type": "split",
+    "children": [
+      {
+        "id": "45bf00fe32b47df5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93cfd700dc478868",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c4e59c7136630d2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "invertibel",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "567d3ddfc359c9d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e3cf573db3f16329",
+    "type": "split",
+    "children": [
+      {
+        "id": "259b953053a75afb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08bfd8efda920ade",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SubPages/Basis/Basis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c871feb6acaac5dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "SubPages/Basis/Basis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4635aca41aacfb58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04834a035ab4cdc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "SubPages/Basis/Basis.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f88443ce94c9d28",
+  "lastOpenFiles": [
+    "SubPages/Matrix/Invertibel Matrix.md",
+    "SubPages/Matrix/Matrix.md",
+    "TØ opgaver/TA exercises er I denne mappe som jupyter filer.md",
+    "TODO.md",
+    "Determinant.md",
+    "TØ opgaver/Ta Week 13.ipynb",
+    "TØ opgaver/Ta week 12.ipynb",
+    "TØ opgaver/Ta-week 11.ipynb",
+    "TØ opgaver/TA Week 10.ipynb",
+    "TØ opgaver/TA exercise Week 9.ipynb",
+    "TØ opgaver/Week8Ta.ipynb",
+    "TØ opgaver/Aflevering 5.ipynb",
+    "TØ opgaver/TA week 6.ipynb",
+    "TØ opgaver/TA exercises week 5.ipynb",
+    "TØ opgaver/TA uge 4.ipynb",
+    "SubPages/Matrix/Symmetrisk matrix.md",
+    "Attachments/Lemma 23.13.png",
+    "SubPages/Matrix/Egenværdi.md",
+    "Attachments/Sætning 23.10.png",
+    "Attachments/Proposition 23.4.png",
+    "Attachments/Sætning 23.3.png",
+    "Attachments/Proposition 23.2.png",
+    "SubPages/Polynomier/Polynomier.md",
+    "Førsteordenssystem.md",
+    "SubPages/Vektorer/Egenvektor.md",
+    "Attachments/proposition 21.15.png",
+    "SubPages/Rum/Kernen (ker).md",
+    "SubPages/Rum/Billedmængde(im).md",
+    "Lineær transformation.md",
+    "Attachments/Proposition 20.2.png",
+    "Attachments/Defination 20.1.png",
+    "SubPages/Rum/Dimension(dim).md",
+    "SubPages/Basis/Standard Basis for R.md",
+    "Koordinatvektor.md",
+    "Attachments/Proposition 18.23.png",
+    "Attachments/Proposition 18.14 og defination 18.15.png",
+    "SubPages/Vektorer/Vektor.md",
+    "SubPages/Rum/Underrum.md",
+    "Lineær afbildning.md",
+    "SubPages/Rum/Søjlerum(S(A)).md",
+    "SubPages/Rum/Vektorrum.md",
+    "SubPages/Konditionstal/konditiontal for invertibel matrix.md",
+    "SubPages/Dekomponering/Singulærværdi komponering.md",
+    "SubPages/Vektorer/Ortonormale vektorer.md",
+    "SubPages/Basis/Basis.md",
+    "SubPages/Enhedsvektor.md"
+  ]
+}

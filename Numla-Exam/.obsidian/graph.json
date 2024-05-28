@@ -1,0 +1,93 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:SubPages/Basis  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:SubPages/Rum  ",
+      "color": {
+        "a": 1,
+        "rgb": 6608476
+      }
+    },
+    {
+      "query": "path:SubPages/Matrix  ",
+      "color": {
+        "a": 1,
+        "rgb": 6054102
+      }
+    },
+    {
+      "query": "path:SubPages/Konditionstal  ",
+      "color": {
+        "a": 1,
+        "rgb": 16774912
+      }
+    },
+    {
+      "query": "path:\"SubPages/Mindste kvadraters metode\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16713028
+      }
+    },
+    {
+      "query": "path:\"SubPages/Numerisk integration\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:SubPages/Vektorer  ",
+      "color": {
+        "a": 1,
+        "rgb": 10911999
+      }
+    },
+    {
+      "query": "path:\"SubPages/Metoder til estimering\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10682368
+      }
+    },
+    {
+      "query": "path:SubPages/Polynomier  ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:SubPages/Dekomponering  ",
+      "color": {
+        "a": 1,
+        "rgb": 13697024
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.09515463917526,
+  "lineSizeMultiplier": 1.74175257731959,
+  "collapse-forces": false,
+  "centerStrength": 0.378350515463918,
+  "repelStrength": 12.1855670103093,
+  "linkStrength": 1,
+  "linkDistance": 183,
+  "scale": 1.9573210370391878,
+  "close": true
+}
