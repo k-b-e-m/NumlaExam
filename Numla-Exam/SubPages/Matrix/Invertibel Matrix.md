@@ -41,6 +41,7 @@ $$
 $$
 1/\delta_i
 $$
+*Note:* Bemærk at dette derfor ikke e rmuligt hvis nogle af singulærværdierne er 0.
 for hver indgang i diogonalen for $\Sigma$
 
 

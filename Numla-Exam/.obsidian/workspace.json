@@ -4,59 +4,141 @@
     "type": "split",
     "children": [
       {
-        "id": "265f4c24bb83eeb7",
+        "id": "2b56de20a0b4e350",
         "type": "tabs",
         "children": [
           {
-            "id": "c97f1e4ea2ec7c7b",
+            "id": "563f9843b0c604ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SubPages/Matrix/Matrix.md",
+                "file": "SubPages/Vektorer/Vektor.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2917f94e46858b97",
+            "id": "6d22671644d4977a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SubPages/Matrix/Matrix.md",
+                "file": "SubPages/Konditionstal/konditionstal for mindste kvadraters metode.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "88efe758ca3103d2",
+            "id": "ae15459c9abebcb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SubPages/Basis/Basis.md",
+                "file": "SubPages/Echelonform.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2f88443ce94c9d28",
+            "id": "c08c61db8b40e3c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SubPages/Basis/Basis.md",
+                "file": "SubPages/Rum/Søjlerum(S(A)).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0bfac495be9715be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Basis/Basis for Nulrum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e17236aaef3ba07d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Matrix/Grammatrix.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18e81258f06a9e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lineær afbildning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c191832fa195927",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Mindste kvadraters metode/Mindste kvadraters metode via SVD.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c774ed48a167941b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Konditionstal/Konditionstal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d55682211f50049b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Definition 8.11.png"
+              }
+            }
+          },
+          {
+            "id": "5838037b571b1dcf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SubPages/Matrix/Invertibel Matrix.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "invertibel",
+                "query": "konditionstal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +184,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +205,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SubPages/Basis/Basis.md",
+                "file": "SubPages/Konditionstal/Konditionstal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SubPages/Basis/Basis.md",
+                "file": "SubPages/Konditionstal/Konditionstal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +245,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SubPages/Basis/Basis.md"
+                "file": "SubPages/Konditionstal/Konditionstal.md"
               }
             }
           }
@@ -183,13 +266,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f88443ce94c9d28",
+  "active": "c774ed48a167941b",
   "lastOpenFiles": [
-    "SubPages/Matrix/Invertibel Matrix.md",
+    "SubPages/Dekomponering/Singulærværdi komponering.md",
+    "Attachments/side 330.png",
     "SubPages/Matrix/Matrix.md",
-    "TØ opgaver/TA exercises er I denne mappe som jupyter filer.md",
-    "TODO.md",
-    "Determinant.md",
+    "SubPages/Mindste kvadraters metode/Mindste kvadraters metode via SVD.md",
+    "SubPages/Metoder til estimering/potensmetoden.md",
+    "Lineær transformation.md",
+    "Lineær afbildning.md",
+    "SubPages/Mindste kvadraters metode/Mindste kvadraters metode via QR-dekomponering.md",
+    "SubPages/Vektorer/Egenvektor.md",
+    "Koordinatvektor.md",
+    "SubPages/Matrix/IdentitetsMatrix.md",
+    "Attachments/Lemma 9.8.png",
+    "SubPages/Matrix/Grammatrix.md",
+    "Attachments/Definition 8.11.png",
+    "Flop.md",
+    "SubPages/Matrix/Householdermatrix.md",
+    "SubPages/Enhedsvektor.md",
+    "SubPages/Echelonform.md",
+    "SubPages/Basis/Basis for Nulrum.md",
+    "SubPages/Rum/Underrum.md",
+    "Attachments/proposition 19.10.png",
+    "SubPages/Rum/Søjlerum(S(A)).md",
+    "Lineære ligningssystem.md",
+    "SubPages/Matrix/Egenværdi.md",
+    "SubPages/Vektorer/Ortogonal.md",
+    "SubPages/Matrix/Invertibel Matrix.md",
+    "SubPages/Matrix/Karakteristika for invertibel matrix.md",
+    "SubPages/Konditionstal/konditiontal for invertibel matrix.md",
+    "SubPages/Konditionstal/konditionstal for mindste kvadraters metode.md",
+    "Attachments/proposition 7.6.png",
+    "Attachments/tabel 17.1.png",
+    "Attachments/Rotationsmatrix side 18.png",
+    "Attachments/Proposition 18.14 og 18.15.png",
+    "Attachments/proposition 21.15.png",
+    "Attachments/Lineære ligningssystem side 74.png",
     "TØ opgaver/Ta Week 13.ipynb",
     "TØ opgaver/Ta week 12.ipynb",
     "TØ opgaver/Ta-week 11.ipynb",
@@ -199,37 +312,6 @@
     "TØ opgaver/Aflevering 5.ipynb",
     "TØ opgaver/TA week 6.ipynb",
     "TØ opgaver/TA exercises week 5.ipynb",
-    "TØ opgaver/TA uge 4.ipynb",
-    "SubPages/Matrix/Symmetrisk matrix.md",
-    "Attachments/Lemma 23.13.png",
-    "SubPages/Matrix/Egenværdi.md",
-    "Attachments/Sætning 23.10.png",
-    "Attachments/Proposition 23.4.png",
-    "Attachments/Sætning 23.3.png",
-    "Attachments/Proposition 23.2.png",
-    "SubPages/Polynomier/Polynomier.md",
-    "Førsteordenssystem.md",
-    "SubPages/Vektorer/Egenvektor.md",
-    "Attachments/proposition 21.15.png",
-    "SubPages/Rum/Kernen (ker).md",
-    "SubPages/Rum/Billedmængde(im).md",
-    "Lineær transformation.md",
-    "Attachments/Proposition 20.2.png",
-    "Attachments/Defination 20.1.png",
-    "SubPages/Rum/Dimension(dim).md",
-    "SubPages/Basis/Standard Basis for R.md",
-    "Koordinatvektor.md",
-    "Attachments/Proposition 18.23.png",
-    "Attachments/Proposition 18.14 og defination 18.15.png",
-    "SubPages/Vektorer/Vektor.md",
-    "SubPages/Rum/Underrum.md",
-    "Lineær afbildning.md",
-    "SubPages/Rum/Søjlerum(S(A)).md",
-    "SubPages/Rum/Vektorrum.md",
-    "SubPages/Konditionstal/konditiontal for invertibel matrix.md",
-    "SubPages/Dekomponering/Singulærværdi komponering.md",
-    "SubPages/Vektorer/Ortonormale vektorer.md",
-    "SubPages/Basis/Basis.md",
-    "SubPages/Enhedsvektor.md"
+    "TØ opgaver/TA uge 4.ipynb"
   ]
 }

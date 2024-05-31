@@ -20,3 +20,4 @@
 ![[Defination 20.1.png]]
 *Note:* Hvor E og F er [[Basis]] for V og W ($L: V\rightarrow W$)
 ![[Proposition 20.2.png]]
+

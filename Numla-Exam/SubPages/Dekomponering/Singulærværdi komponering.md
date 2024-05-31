@@ -4,6 +4,10 @@
 [[Ortogonal]]
 
 # Resultater
+
+![[side 330.png]]
+
+
 ![[Lemma 11.6.png]]
 # SVD komponering i python
 ``` Python

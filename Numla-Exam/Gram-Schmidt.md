@@ -3,6 +3,7 @@
 ![[Forbedret Gram-Schmidt algortime.png]]
 
 ## python kode
+
 ## Flops for algoritme
 *Note:* Udregning af flops kan ses i kapitel 15.4 side 203
 

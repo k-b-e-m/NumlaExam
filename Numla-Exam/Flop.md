@@ -2,6 +2,9 @@
 
 *Note:* +,-, * , /  koster alle et flop, side 57.
 
+![[tabel 17.1.png]]
+[[Mindste kvadraters metode via QR-dekomponering]][[Mindste kvadraters metode via SVD]][[Mindste kvadraters metode via normalligninger]]
+
 # Udregning af flops
 
 *Note:* Fra 5.4 har vi udregning:
